@@ -2,7 +2,7 @@
  * simple calculator.c
  *
  * Created: 12/22/2022 5:33:12 PM
- * Author : DR-Mosaad
+ * Author : Ayman
  */ 
 #define F_CPU  1000000UL
 
